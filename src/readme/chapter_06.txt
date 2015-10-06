@@ -1,0 +1,8 @@
+Use a page factory implementation to abstract the hard-coded object identification.
+
+Re-write all the pages (pageFactoryImpl).
+Compare the flight search page from the previous implementation side by side.
+
+// About Pagefactory
+
+Read here:  https://code.google.com/p/selenium/wiki/PageFactory

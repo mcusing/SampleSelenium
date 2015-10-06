@@ -1,0 +1,6 @@
+With all that awesome readability in place, add some sugar coating to make it read a proper
+Given, When, And, Then kind of test scenario.
+
+Encapsulate the whole test scenario statement from a user's perspective and return the same from these methods.
+
+Test looks exactly how it is in the very beginning (Chapter 1).
